@@ -2,4 +2,4 @@ pycaret==3.0.2
 streamlit==1.23.1
 pandas==1.5.3
 numpy==1.23.5
-PIL
+Pillow==9.5.0
